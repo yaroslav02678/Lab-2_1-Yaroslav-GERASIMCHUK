@@ -1,26 +1,14 @@
-# Виберіть базовий образ
+# Вибір базового образу
 FROM gcc:latest
 
 # Встановіть робочу директорію
 WORKDIR /app
 
-# Скопіюйте файли проекту
+# Скопіюйте всі файли вашого проекту до контейнера
 COPY . .
 
-# Встановіть необхідні пакети, такі як CMake та інструменти для збірки, та очистіть кеш
-RUN apt-get update && apt-get install -y cmake build-essential && rm -rf /var/lib/apt/lists/*
-
-# Створіть каталог для збірки
-RUN mkdir build
-
-# Перейдіть до каталогу збірки
-WORKDIR /app/build
-
-# Запустіть CMake для конфігурації проекту
-RUN cmake ..
-
-# Скомпілюйте проект
-RUN make
+# Скомпілюйте вашу програму
+RUN g++ -o server main.cpp -lboost_system -lpthread
 
 # Запустіть програму
 CMD ["./Lab-2_4-IDE-project"]
