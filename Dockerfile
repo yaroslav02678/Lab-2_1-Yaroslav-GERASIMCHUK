@@ -11,4 +11,4 @@ COPY . .
 RUN g++ -o server main.cpp -lboost_system -lpthread
 
 # Запустіть програму
-CMD ["./Lab-2_4-IDE-project"]
+CMD ["./build/Debug/Lab-2_4-IDE-project"]

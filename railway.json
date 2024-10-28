@@ -1,9 +1,0 @@
-{
-    "build": {
-      "dockerfile": "Dockerfile"
-    },
-    "deploy": {
-      "cmd": "./Lab-2_4-IDE-project"
-    }
-  }
-  
