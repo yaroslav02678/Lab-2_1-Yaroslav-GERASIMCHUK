@@ -1,0 +1,15 @@
+E:/git/Lab-2_1-Yaroslav-GERASIMCHUK/build/CMakeFiles/ProjectLib.dir
+E:/git/Lab-2_1-Yaroslav-GERASIMCHUK/build/CMakeFiles/Lab-2_4-IDE-project.dir
+E:/git/Lab-2_1-Yaroslav-GERASIMCHUK/build/CMakeFiles/INSTALL.dir
+E:/git/Lab-2_1-Yaroslav-GERASIMCHUK/build/CMakeFiles/ALL_BUILD.dir
+E:/git/Lab-2_1-Yaroslav-GERASIMCHUK/build/CMakeFiles/ZERO_CHECK.dir
+E:/git/Lab-2_1-Yaroslav-GERASIMCHUK/build/_deps/googletest-build/CMakeFiles/INSTALL.dir
+E:/git/Lab-2_1-Yaroslav-GERASIMCHUK/build/_deps/googletest-build/CMakeFiles/ALL_BUILD.dir
+E:/git/Lab-2_1-Yaroslav-GERASIMCHUK/build/_deps/googletest-build/googlemock/CMakeFiles/gmock.dir
+E:/git/Lab-2_1-Yaroslav-GERASIMCHUK/build/_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir
+E:/git/Lab-2_1-Yaroslav-GERASIMCHUK/build/_deps/googletest-build/googlemock/CMakeFiles/INSTALL.dir
+E:/git/Lab-2_1-Yaroslav-GERASIMCHUK/build/_deps/googletest-build/googlemock/CMakeFiles/ALL_BUILD.dir
+E:/git/Lab-2_1-Yaroslav-GERASIMCHUK/build/_deps/googletest-build/googletest/CMakeFiles/gtest.dir
+E:/git/Lab-2_1-Yaroslav-GERASIMCHUK/build/_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir
+E:/git/Lab-2_1-Yaroslav-GERASIMCHUK/build/_deps/googletest-build/googletest/CMakeFiles/INSTALL.dir
+E:/git/Lab-2_1-Yaroslav-GERASIMCHUK/build/_deps/googletest-build/googletest/CMakeFiles/ALL_BUILD.dir

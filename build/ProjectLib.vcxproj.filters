@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\git\Lab-2_1-Yaroslav-GERASIMCHUK\src\Library\SoftwareEngineeringStudent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\git\Lab-2_1-Yaroslav-GERASIMCHUK\src\Library\ComputerEngineeringStudent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\git\Lab-2_1-Yaroslav-GERASIMCHUK\src\Library\CyberSecurityStudent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\git\Lab-2_1-Yaroslav-GERASIMCHUK\src\Library\Question.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\git\Lab-2_1-Yaroslav-GERASIMCHUK\src\Library\User.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\git\Lab-2_1-Yaroslav-GERASIMCHUK\src\Library\Admin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\git\Lab-2_1-Yaroslav-GERASIMCHUK\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1CAC8F75-2641-329F-9DB6-937D9332B0B1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

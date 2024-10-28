@@ -3,6 +3,7 @@
 #include "library/CyberSecurityStudent.h"
 #include "library/Question.h"
 #include "library/Admin.h"
+#include <sstream>
 
 vector<SoftwareEngineeringStudent> softwareStudents;
 vector<ComputerEngineeringStudent> computerStudents;
